@@ -62,6 +62,4 @@ class Particle:
         print(f"Velocity: {self.velocity}")
         print(f"Kinetic Energy: {self.energy} J")
 
-
-<Dhanush Annapaneni/>
  
