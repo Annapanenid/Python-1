@@ -1,7 +1,7 @@
 import numpy as np
  
 class Particle:
-    def __init__(self, position, velocity, mass, particle_type):
+    def _init_(self, position, velocity, mass, particle_type):
         """
         Initializes a particle with position, velocity, mass, and type.
         """
